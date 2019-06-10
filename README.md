@@ -3,7 +3,7 @@ Classifying 5 different types of Flowers using Convolutional Neural Networks
 
 Steps to follow:
 
-1. Create your own Datase:
+1. Create your own Dataset:
 
 Follow the following steps to create your own dataset
   
