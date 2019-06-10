@@ -7,11 +7,16 @@ Steps to follow:
 
 Follow the following steps to create your own dataset
   
-  a. Open up Google images and search for the images that you wish to download.
+  a. Open up Google images and search for the images that you wish to download. 
+  
   b. Scroll till you feel the number of images are sufficient.
+  
   c. Now go to "inspect element" (the source code of that page).
+  
   d. Click on Console and there you need to paste the code line by line which is available in js_console.json file.
+  
   e. Once the code is entered, a text file is automatically downloded which contains the urls of all the images.
+  
   f. Now use the download_images.py file to download the images.
 
 
