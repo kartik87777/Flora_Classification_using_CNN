@@ -1,5 +1,18 @@
 # Flora_Classification_using_CNN
+
 Classifying 5 different types of Flowers using Convolutional Neural Networks
+
+I made use of the following flowers to classify:
+
+1. Rose
+
+2. Poppy
+
+3. Lily
+
+4. Iris
+
+5. Daisy
 
 Steps to follow:
 
